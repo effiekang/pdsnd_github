@@ -9,9 +9,9 @@ Provide statistical results based on **user's input**, including *city/month/day
 
 ### Files used
 * bikeshare.py
-* chicago.csv
-* washington.csv
-* new_york_city.csv
+* chicago.csv (data)
+* washington.csv (data)
+* new_york_city.csv (data)
 
 ### Credits
 [Udacity Course](https://www.udacity.com/ "Title")
