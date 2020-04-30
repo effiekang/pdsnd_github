@@ -17,19 +17,19 @@ def get_filters():
         if city in Valid_City:
             break
         else:
-            print("That's not a valid input, please choose from 'chicago','new york city', 'washington'")
+            print("Please choose from 'chicago','new york city', 'washington'")
     while True:
         month = input("Please type the month you want to analyze, or type 'all' if you don't need a filter: ").lower()
         if month in Valid_Month:
             break
         else:
-            print("That's not a valid input, please choose from 'january', 'february', 'march', 'april', 'may', 'june'")
+            print("Please choose from 'january', 'february', 'march', 'april', 'may', 'june'")
     while True:
         day = input("Please type the day of week you want to analyze, or type 'all' if you don't need a filter: ").lower()
         if day in Valid_Dayofweek:
             break
         else:
-            print("That's not a valid input, please choose from 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday','sunday'")
+            print("Please choose from 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday','sunday'")
     print('-'*40)
     return city, month, day
 
