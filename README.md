@@ -5,7 +5,7 @@
 Udacity Python Project
 
 ### Description
-Provide statistical results based on **user's input**, including *city/month/day of week*
+Provide statistical results based on **user's input**, including *city/month/day of wee
 
 ### Files used
 * bikeshare.py
