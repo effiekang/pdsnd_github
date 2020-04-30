@@ -136,14 +136,14 @@ def main():
         lower_bound = 0
         upper_bound = 5
         while True:
-            raw_input = input('\nWould you like to see more individual data? Enter yes or no.\n')
+            raw_input = input('\nWould you like to see more individual data? Enter yes or no to proceed.\n')
             if raw_input == 'yes':
                 print(df.iloc[lower_bound:upper_bound, 0:])
                 lower_bound += 5
                 upper_bound += 5
             else:
                 break
-        restart = input('\nWould you like to restart? Enter yes or no.\n')
+        restart = input('\nWould you like to restart? Enter yes or no to proceed.\n')
         if restart.lower() != 'yes':
             break
 
