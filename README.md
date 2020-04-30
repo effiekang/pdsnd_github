@@ -6,6 +6,7 @@ Udacity Python Project
 
 ### Description
 Provide statistical results based on **user's input**, including *city/month/day of week*
+statistical results includes user type counts, genders, popular stations, etc
 
 ### Files used
 * bikeshare.py
