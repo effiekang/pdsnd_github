@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+2020/04/30
 
 ### Project Title
-Replace the Project Title
+Udacity Python Project
 
 ### Description
-Describe what your project is about and what it does
+Provide statistical results based on **user's input**, including *city/month/day of week*
 
 ### Files used
-Include the files used
+* bikeshare.py
+* chicago.csv
+* washington.csv
+* new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+[Udacity Course](https://www.udacity.com/ "Title")
